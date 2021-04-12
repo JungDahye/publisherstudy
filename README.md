@@ -2,10 +2,10 @@
 [https://heropy.blog/2017/09/30/markdown/] ("마크다운문법")
 
 ## Pull Fetch 차이점
-- Pull
+<p>- Pull</p>
 <em>원격 저장소의 '수정'된 소스를 다운받아 '병합'</em>
-- Petch
+<p>- Petch</p>
 <em>원격 저장소의 소스를 '로컬'에 단순히 복제할 때쓴다.</em>
-- Fork
+<p>- Fork</p>
 <em>다른 원격저장소를 '내 깃헙'으로 복제한다</em>
 <em>다른 원격저장소가 커밋이 되면 같이 소스가 업데이트 된다</em>
